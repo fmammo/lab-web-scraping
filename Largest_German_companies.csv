@@ -1,0 +1,54 @@
+Rank,Forbes 2000 rank,Name,Headquarters,Revenue(billions US$),Profit(billions US$),Assets(billions US$),Value(billions US$),Industry
+1,9,Volkswagen,Wolfsburg,278.2,14.0,553.5,92.0,Automotive
+2,23,Allianz,Munich,118.8,8.8,"1,060.2",102.3,Insurance
+3,37,Daimler AG,Stuttgart,197.4,8.6,321.9,71.3,Automotive
+4,57,BMW,Munich,115.0,8.4,238.9,57.5,Automotive
+5,64,Siemens,Munich / Berlin,98.3,5.5,164.2,97.0,Conglomerate
+6,99,BASF,Ludwigshafen,76.2,5.6,103.8,76.6,Chemicals
+7,116,Deutsche Telekom,Bonn,89.3,2.6,176.5,79.4,Telecommunications
+8,147,Munich Re,Munich,62.9,2.7,311.6,36.3,Insurance
+9,164,Bayer,Leverkusen,46.7,2.0,150.3,64.1,Pharmaceuticals
+10,176,SAP SE,Walldorf,29.1,4.8,58.9,134.9,Technology
+11,208,Deutsche Post,Bonn,72.6,2.4,60.0,43.1,Transportation
+12,239,Continental AG,Hanover,52.4,3.4,47.4,35.0,Automotive parts
+13,258,Fresenius,Bad Homburg,39.6,2.4,64.8,30.6,Healthcare
+14,263,E.ON,Essen,35.1,3.8,64.6,24.0,Electric utility
+15,322,Henkel,Düsseldorf,23.5,2.7,34.3,43.1,Consumer goods
+16,413,Lufthansa,Cologne,42.3,2.6,44.4,12.1,Airline
+17,430,Adidas,Herzogenaurach,25.9,2.0,17.8,52.0,Apparel
+18,482,HeidelbergCement,Heidelberg,21.3,1.3,41.9,16.3,Building material
+19,484,Talanx,Hanover,41.6,0.8,179.1,10.3,Insurance
+20,494,Commerzbank,Frankfurt,15.0,1.0,528.6,11.4,Banking
+21,547,Deutsche Bank,Frankfurt,42.3,0.3,"1,541.1",18.1,Banking
+22,566,Merck Group,Darmstadt,17.7,0.5,42.8,45.8,Pharmaceuticals
+23,621,Vonovia,Bochum,4.8,2.7,56.5,25.8,Real estate
+24,624,Evonik Industries,Essen,17.7,1.1,24.7,14.3,Chemicals
+25,626,RWE,Essen,24.8,0.4,98.3,15.8,Electric utility
+26,667,Porsche SE,Stuttgart,0.1,4.1,38.5,22.2,Automotive
+27,672,Deutsche Börse,Frankfurt,3.7,1.0,180.2,24.2,Finance
+28,710,Uniper,Düsseldorf,92.2,−0.5,65.9,11.2,Electric utility
+29,761,Covestro,Leverkusen,17.2,2.2,12.9,10.9,Chemicals
+30,780,Infineon Technologies,Munich,9.2,1.3,12.7,27.3,Technology
+31,809,EnBW,Karlsruhe,24.3,0.3,48.4,9.6,Electric utilities
+32,820,Deutsche Wohnen,Berlin,1.7,2.2,29.0,16.0,Real estate
+33,847,ThyssenKrupp,Essen,43.3,0.1,40.1,9.5,Conglomerate
+34,960,Beiersdorf,Hamburg,8.5,0.9,10.2,23.7,Consumer goods
+35,992,TUI AG,Hanover,23.2,0.8,16.3,6.5,Hospitality
+36,1026,Schaeffler Group,Herzogenaurach,16.8,1.0,14.6,6.3,Automotive parts
+37,1113,Knorr-Bremse,Munich,7.0,0.7,7.1,18.1,Technology
+38,1252,Metro AG,Düsseldorf,32.3,0.4,17.9,6.1,Retail
+39,1260,Brenntag,Essen,14.8,0.5,8.9,8.4,Chemicals
+40,1312,Wüstenrot & Württembergische,Stuttgart,7.5,0.3,82.0,2.0,Finances
+41,1341,KION Group,Frankfurt,9.4,0.5,14.8,8.1,Technology
+42,1522,Ceconomy,Düsseldorf,25.5,−0.3,12.5,2.2,Retail
+43,1536,Hella,Lippstadt,8.5,0.8,7.1,6.2,Automotive parts
+44,1569,MTU Aero Engines,Munich,5.4,0.5,8.2,11.9,Aerospace and defense
+45,1571,LEG Immobilien,Düsseldorf,0.9,1.0,12.9,7.4,Real estate
+46,1679,Deutsche Pfandbriefbank,Unterschleißheim,2.2,0.2,66.0,1.9,Banking
+47,1709,BayWa,Munich,19.6,0.0,8.6,1.1,Retail
+48,1751,Wirecard,Aschheim,2.3,0.4,6.0,16.7,Finance
+49,1780,Aareal Bank,Wiesbaden,1.4,0.4,48.8,2.1,Banking
+50,1812,Nürnberger Versicherung,Nuremberg,5.1,0.1,35.1,0.9,Insurance
+51,1842,Zalando,Berlin,6.4,0.1,3.7,11.6,E-commerce
+52,1853,Fraport,Frankfurt,4.1,0.6,13.3,7.6,Transportation
+53,1982,Lanxess,Cologne,9.4,0.4,10.3,5.6,Chemicals
